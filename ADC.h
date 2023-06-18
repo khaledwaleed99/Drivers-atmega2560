@@ -6,7 +6,7 @@
  *
  * Description: Header file for Atmega2560 ADC Driver
  *
- * Author: Mohamed Saad
+ * 
  *
  *******************************************************************************/
 #ifndef ADC_H_
