@@ -6,7 +6,6 @@
  *
  * Description: Source file for the AVR PWM-Timer0 driver
  *
- * Author: Mohamed Saad
  *
  *******************************************************************************/
 
