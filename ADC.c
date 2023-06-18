@@ -6,7 +6,7 @@
  *
  * Description: Source file for Atmega2560 ADC Driver
  *
- * Author: Mohamed Saad
+ * 
  *
  *******************************************************************************/
 
