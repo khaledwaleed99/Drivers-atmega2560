@@ -6,7 +6,6 @@
  *
  * Description: Source file for Reading and writing in the eeprom
  *
- * Author: Mohamed Saad
  *
  *******************************************************************************/ 
 
