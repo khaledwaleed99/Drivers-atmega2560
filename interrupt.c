@@ -1,8 +1,7 @@
 /*
  * Exercise1.c
  *
- * Created: 3/3/2014 9:45:25 PM
- * Author: Mohamed Tarek
+ *
  */ 
 
 #include <avr/io.h>
