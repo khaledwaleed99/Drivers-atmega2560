@@ -6,7 +6,6 @@
  *
  * Description: Source file for the atmega2560 Timer0  driver
  *
- * Author: Mohamed Saadeldin
  *
  *******************************************************************************/
 #include "Timer0.h"
