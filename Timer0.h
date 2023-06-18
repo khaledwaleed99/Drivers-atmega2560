@@ -6,7 +6,6 @@
  *
  * Description: Header file for the AVR Timer0 driver
  *
- * Author: Mohamed Saad
  *
  *******************************************************************************/
 
