@@ -6,7 +6,6 @@
  *
  * Description: Header file for the AVR PWM-Timer0 driver
  *
- * Author: Mohamed Saad
  *
  *******************************************************************************/
 #ifndef TIMER0_PWM_H_
